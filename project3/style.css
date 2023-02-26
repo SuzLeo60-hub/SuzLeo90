@@ -1,0 +1,43 @@
+header {
+	background-color: white;
+} 
+h1{
+	color: black;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	font-size: 36px;
+}
+h2{
+	color: #ffoooo;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	font-size: 24px;
+}
+p {
+	color: black;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	font-size: 14px;
+} 
+body {
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    text-align: center;
+    font-size: 14px;
+}
+footer {
+	background-color: black;
+	color: white;
+      text: align;
+      font-size: 12px;
+} 
+nav {
+	text-align: center;
+} 
+.wrapper{
+	margin-left:auto;
+	margin-right:auto;
+} 
+#album{
+	background-color: #dceef4;
+}
