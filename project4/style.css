@@ -18,8 +18,9 @@ h3{ color: black;
 	text-align: center;
 	font-size: 18px;
 }
-h4 { color: black;
-    font-family: Verdana, Arial, sans-serif;
+h4 { 
+	color: black;
+        font-family: Verdana, Arial, sans-serif;
 	text-align: center;
 	font-size: 18px;
 }  
@@ -28,9 +29,10 @@ p {
 	font-family: Verdana, Arial, sans-serif;
 	text-align: center;
 	font-size: 14px;
-	margin-center: 20px
+	margin-center: 20px	
 } 
 body {
+    background-color: #3399ff;
     color: black;
     font-family: Verdana, Arial, sans-serif;
     text-align: center;
